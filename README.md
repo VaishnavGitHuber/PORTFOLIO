@@ -47,7 +47,7 @@ python manage.py runserver
 Mobile No: 9744065221
 Email : vyshanvkrishnap2020@gmail.com
 ```
-
+![images][PersonalBio/static/images/image.png]
 
 
 
